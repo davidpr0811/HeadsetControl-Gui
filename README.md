@@ -18,5 +18,6 @@ i think logitech is building great headsets but i hate it that they dont build s
 
 <img width="1106" height="811" alt="image" src="https://github.com/user-attachments/assets/191db592-71fc-44ba-9904-ac04b0c11c5b" />
 
+
 ## Starchart
 [![Star History](https://api.star-history.com/svg?repos=davidpr0811/HeadsetControl-Gui&type=Date)](https://star-history.com/#davidpr0811/HeadsetControl-Gui)
